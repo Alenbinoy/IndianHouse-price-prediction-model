@@ -1,7 +1,5 @@
 # IndianHouse-price-prediction-model
 
-#  Indian House Price Prediction Model
-
 A Machine Learning project focused on predicting house prices in Indian cities using Python and Google Colab. This project was built using a limited Kaggle dataset containing approximately 1,807 records and explores the fundamentals of predictive analytics and regression modeling.
 
 ---
